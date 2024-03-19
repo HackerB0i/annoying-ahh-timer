@@ -1,4 +1,4 @@
-do pip install win10toast in the terminal
-run the script
-input the amount in seconds
-get notified when it ends!
+1. do pip install win10toast in the terminal
+2. run the script
+3. input the amount in seconds
+4. get notified when it ends!
