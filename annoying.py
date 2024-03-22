@@ -7,9 +7,9 @@ duration = int(input("how long do you want to wait (seconds): "))
 timestart = time.time()
 
 while time.time() - timestart < duration:
-    print(time.time() - timestart)
+    print(time.time() - timestart) # timer countdown
 
-while True:
+while True: # spam notify
     toast.show_toast(
     "timer is done",
     f"your {duration} second timer is completed",
